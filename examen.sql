@@ -5,7 +5,7 @@
 -- Dumped from database version 11.22
 -- Dumped by pg_dump version 11.22
 
-SET statement_timeout = 4;
+SET statement_timeout = 0;
 SET lock_timeout = 0;
 SET idle_in_transaction_session_timeout = 0;
 SET client_encoding = 'UTF8';
@@ -15,11 +15,11 @@ SET check_function_bodies = false;
 SET xmloption = content;
 SET client_min_messages = warning;
 SET row_security = off;
-Hii HIii
+
 --
 -- Name: adminpack; Type: EXTENSION; Schema: -; Owner: 
 --
-aguaaaaaaaaaaaaaaa de coco
+
 CREATE EXTENSION IF NOT EXISTS adminpack WITH SCHEMA pg_catalog;
 
 
