@@ -41,7 +41,8 @@ SET default_with_oids = false;
 CREATE TABLE public.x (
     a character varying(2) NOT NULL,
     b character varying(2),
-    c character varying(2)
+    c character varying(2),
+    d character varying(7)
 );
 
 
